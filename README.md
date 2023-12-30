@@ -25,20 +25,20 @@ This application is a data visualization tool that takes input data from a CSV f
    ```bash
    git clone https://github.com/amideo5/Data-Visualization-Charts.git
 
-2. **cd data-visualization-charts/backend**
+2. **cd Data-Visualization-Charts/server/server**
 npm install
 
-3. **cd ../frontend**
+3. **cd ../client**
 npm install
 
-4. **cd ../backend**
+4. **cd ../server/server**
 npm start
 
-5. **cd ../frontend**
+5. **cd ../client**
 npm start
 
-##Usage
-##Upload CSV file:
+## Usage
+### Upload CSV file:
 
 Click on the "Upload" button.
 Select a CSV file from your local machine.
@@ -47,11 +47,11 @@ Explore Data:
 The application will automatically generate charts based on the uploaded data.
 Use the interactive features of the charts to explore and analyze the data.
 
-##Technologies Used
-###Backend:
+## Technologies Used
+### Backend:
 Express.js
 CSV Parser
 
-###Frontend:
+### Frontend:
 React
 Charting Library (e.g., Chart.js, D3.js)
