@@ -40,18 +40,18 @@ npm start
 ## Usage
 ### Upload CSV file:
 
-Click on the "Upload" button.
-Select a CSV file from your local machine.
-Explore Data:
+Click on the "Upload" button.<br>
+Select a CSV file from your local machine.<br>
+###Explore Data:
 
-The application will automatically generate charts based on the uploaded data.
+The application will automatically generate charts based on the uploaded data.<br>
 Use the interactive features of the charts to explore and analyze the data.
 
 ## Technologies Used
 ### Backend:
-Express.js
+Express.js<br>
 CSV Parser
 
 ### Frontend:
-React
+React<br>
 Charting Library (e.g., Chart.js, D3.js)
