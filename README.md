@@ -42,7 +42,7 @@ npm start
 
 Click on the "Upload" button.<br>
 Select a CSV file from your local machine.<br>
-###Explore Data:
+### Explore Data:
 
 The application will automatically generate charts based on the uploaded data.<br>
 Use the interactive features of the charts to explore and analyze the data.
